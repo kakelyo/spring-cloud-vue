@@ -72,6 +72,7 @@
 ## 查看simple service的rest接口文档http://localhost:80/swagger-ui.html
 ![swagger](./pic/swagger.png)
 
+## 查看zipkin控制台的http://localhost:9012/
 ![zipkin](./pic/zipkin.png)
 
 ## License
