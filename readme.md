@@ -66,10 +66,10 @@
 
 ![用户组管理](./pic/用户组管理.png)
 
-## 查看注册中心<http://localhost:8888>
+## 查看注册中心http://localhost:8888
 ![注册中心](./pic/注册中心.png)
 
-## 查看simple service的rest接口文档<http://localhost:80/swagger-ui.html>
+## 查看simple service的rest接口文档http://localhost:80/swagger-ui.html
 ![swagger](./pic/swagger.png)
 
 ![zipkin](./pic/zipkin.png)
